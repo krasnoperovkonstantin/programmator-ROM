@@ -1,0 +1,1 @@
+cmd /k python dump_convertor.py
